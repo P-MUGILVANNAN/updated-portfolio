@@ -28,6 +28,10 @@
         "icon": "https://img.icons8.com/color/48/angularjs.png"
     },
     {
+        "name": "Vue Js",
+        "icon": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png"
+    },
+    {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
@@ -80,6 +84,18 @@
         "icon": "https://img.icons8.com/color/48/c-sharp-logo.png"
     },
     {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/color/48/php.png"
+    },
+    {
+        "name": "Laravel",
+        "icon": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-1024.png"
+    },
+    {
+        "name": "Flutter",
+        "icon": "https://img.icons8.com/color/48/flutter.png"
+    },
+    {
         "name": "Firebase",
         "icon": "https://img.icons8.com/color/48/000000/firebase.png"
     },
@@ -95,5 +111,5 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    }  
+    }
 ]
